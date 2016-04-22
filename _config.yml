@@ -1,8 +1,23 @@
+name: sfleitartist
+favicon: null
 layout_spectrum: 0.3136201
+typography_spectrum: 0.3189964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3614518
+  brandColors: []
   brandStrength: 0.4892
   lightness: 0.734767
+  saturation: 0.3614518
   rhythmicContrast: 0.9735511
-typography_spectrum: 0.3189964
-name: sfleitartist
+purpose: []
