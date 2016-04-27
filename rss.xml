@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sfleitartist]]></title>
         <description><![CDATA[sfleitartist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevenfleit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 15:35:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 15:48:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevenfleit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84236c6e-a38c-4e01-b470-d044b7a083d6.jpg">]]></description>
+            <link>https://thegrid.ai/stevenfleit/morning-in-venice-5-36-x-24-inches-acrylic-on-canvas/index.html</link>
+            <guid isPermaLink="false">d9f2a8e3-76f0-4950-918c-58eb95741527</guid>
+            <pubDate>Wed, 27 Apr 2016 15:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/772b6a87-6b6e-4b02-9bfd-2e42d7496638.jpg">]]></description>
-            <link>undefinedfloral-series-9/index.html</link>
+            <link>https://thegrid.ai/stevenfleit/floral-series-9/index.html</link>
             <guid isPermaLink="false">bcdaad61-2576-4ef9-bc72-9d5b71bce0f0</guid>
             <pubDate>Tue, 26 Apr 2016 15:35:17 GMT</pubDate>
         </item>
