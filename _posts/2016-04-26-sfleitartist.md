@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: SFleitArtist
-datePublished: '2016-04-26T15:21:04.045Z'
-dateModified: '2016-04-26T15:20:24.068Z'
+datePublished: '2016-04-27T15:36:47.010Z'
+dateModified: '2016-04-26T15:21:10.938Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-sfleitartist.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,8 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-26-sfleitartist.md
-published: true
 _type: Blurb
 
 ---
