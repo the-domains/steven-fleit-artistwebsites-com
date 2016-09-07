@@ -1,28 +1,40 @@
-name: sfleitartist
-favicon: null
-layout_spectrum: 0.90718
-typography_spectrum: 0.3189964
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.64599
+  brandStrength: 0.5
+  lightness: 0.9279448
   brandColors:
     - '#2f2e34'
     - '#426441'
     - '#7a956c'
     - '#abb18f'
     - '#54344c'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: sfleitartist
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3189964
+layout_spectrum: 0.90718
